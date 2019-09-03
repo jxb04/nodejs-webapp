@@ -22,5 +22,6 @@ module.exports = {
     'react',
   ],
   rules: {
+    "comma-dangle": 0
   },
 };
